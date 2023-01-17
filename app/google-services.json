@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "454322511745",
+    "firebase_url": "https://clothesapp-335a4-default-rtdb.firebaseio.com",
+    "project_id": "clothesapp-335a4",
+    "storage_bucket": "clothesapp-335a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454322511745:android:70b50ce371c79ae78f9280",
+        "android_client_info": {
+          "package_name": "com.dynamic.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454322511745-kl79go70str87bq6ks10mbvddji9t1mp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dynamic.app",
+            "certificate_hash": "ab2cd350e610901ff69e7778f8a726dfba01e5aa"
+          }
+        },
+        {
+          "client_id": "454322511745-08f7t9l91ijdpmeb8sq58qr9tcdgoouk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvSqnroT0lu0LRXU-EeDY_l6JAoa6g0Gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454322511745-08f7t9l91ijdpmeb8sq58qr9tcdgoouk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454322511745:android:7fae5fed94ddd9778f9280",
+        "android_client_info": {
+          "package_name": "com.example.pubnubdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454322511745-0f1bt1kipis1f4hemmuctn9d48jrpgv7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pubnubdemo",
+            "certificate_hash": "ab2cd350e610901ff69e7778f8a726dfba01e5aa"
+          }
+        },
+        {
+          "client_id": "454322511745-08f7t9l91ijdpmeb8sq58qr9tcdgoouk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvSqnroT0lu0LRXU-EeDY_l6JAoa6g0Gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454322511745-08f7t9l91ijdpmeb8sq58qr9tcdgoouk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
